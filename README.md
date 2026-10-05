@@ -1,214 +1,188 @@
 <div align="center">
 
-# 🕷️ Nidhomcihuy
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1f8e,50:0a0a12,100:00e5ff&height=170&section=header&text=NIDHOMCIHUY&fontSize=56&fontColor=ffe600&stroke=000000&strokeWidth=3&animation=fadeIn&fontAlignY=38&desc=ISSUE%20%231%20%E2%80%A2%20THE%20CODEVERSE%20ORIGIN&descSize=16&descColor=ffffff&descAlignY=62"/>
 
-### `CODE • CREATE • BREAK THE LIMITS`
+<img src="./spider-emblem.svg" width="240" alt="Spider emblem"/>
 
-**Informatics Engineering Student · Web Developer · Creative Technology**
+<!-- Mau pakai gambar Spider-Man sendiri? Ganti baris di atas dengan:
+<img src="URL_GAMBAR_KAMU" width="240"/> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:111111,100:8B0000&height=120&section=header&text=ENTER%20THE%20CODEVERSE&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=34&duration=2800&pause=800&color=FFE600&center=true&vCenter=true&width=600&lines=ANYONE+CAN+CODE.;WEB+DEVELOPER+%E2%80%A2+CREATIVE+TECH;THWIP!+SHIPPING+THE+NEXT+PROJECT."/>
+
+**🎓 Informatics Engineering Student**
 
 </div>
 
 ---
 
-## 🕸️ `WHO AM I?`
+## 💥 `PAGE 1 — WHO AM I?`
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   👤 Nidhomcihuycihuy                                           ║
-║                                                      ║
-║   🎓 Informatics Engineering Student                 ║
-║   💻 Web Developer                                   ║
-║   🎨 Creative Technology Enthusiast                  ║
-║   🎮 Game Development Explorer                       ║
-║   🤖 Computer Vision Explorer                        ║
-║                                                      ║
-║   "The code is my web." 🕷️                           ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td width="62%" valign="top">
 
-I enjoy building **web applications, interactive systems, games, and experimental technology**.
+> **CAPTION:** *"Yo, I'm Nidhom. Web developer. Student. Builder of weird, fun, interactive things."*
 
-My goal is simple:
+- 💻 **Web Developer**
+- 🎨 **Creative Technology Enthusiast**
+- 🎮 **Game Development Explorer**
+- 🤖 **Computer Vision Explorer**
 
-> **Learn something new. Build something useful. Make it memorable.**
+</td>
+<td width="38%" align="center" valign="middle">
+
+# 💬
+### `"THE CODE IS MY WEB."` 🕷️
+
+</td>
+</tr>
+</table>
+
+> 🟡 **MISSION:** *Learn something new. Build something useful. Make it memorable.*
 
 ---
 
-# 🕷️ `MY TECH WEB`
+## ⚡ `PAGE 2 — POWERS & GADGETS`
 
-### 💻 Languages
+### 🅱️ Languages — *"BAM!"*
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/PHP-0D0D0D?style=for-the-badge&logo=php&logoColor=E60012"/>
-<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FF2B2B"/>
-<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=E60012"/>
-<img src="https://img.shields.io/badge/Dart-0D0D0D?style=for-the-badge&logo=dart&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=E60012"/>
-<img src="https://img.shields.io/badge/GDScript-0D0D0D?style=for-the-badge&logo=godot-engine&logoColor=FF1744"/>
-
+<p>
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FF1F8E"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFE600"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FF1F8E"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFE600"/>
+<img src="https://img.shields.io/badge/GDScript-000000?style=for-the-badge&logo=godot-engine&logoColor=00E5FF"/>
 </p>
 
-### 🧪 Frameworks & Technologies
+### 🧪 Frameworks & Tech — *"POW!"*
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Laravel-0D0D0D?style=for-the-badge&logo=laravel&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/Flutter-0D0D0D?style=for-the-badge&logo=flutter&logoColor=E60012"/>
-<img src="https://img.shields.io/badge/Godot-0D0D0D?style=for-the-badge&logo=godot-engine&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/OpenCV-0D0D0D?style=for-the-badge&logo=opencv&logoColor=E60012"/>
-<img src="https://img.shields.io/badge/Three.js-0D0D0D?style=for-the-badge&logo=three.js&logoColor=FFFFFF"/>
-
+<p>
+<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF1F8E"/>
+<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godot-engine&logoColor=FFE600"/>
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=FF1F8E"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=FFFFFF"/>
 </p>
 
-### 🗄️ Database
+### 🗄️ Database — *"KAPOW!"*
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=E60012"/>
-<img src="https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/Supabase-0D0D0D?style=for-the-badge&logo=supabase&logoColor=E60012"/>
-
+<p>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFE600"/>
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FF1F8E"/>
 </p>
 
 ---
 
-# 🧬 `PROJECTS FROM THE MULTIVERSE`
+## 🧬 `PAGE 3 — STORIES FROM THE MULTIVERSE`
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🎭 GUBHUG WAYANG AR
+### 🎭 ISSUE #1: GUBHUG WAYANG AR
+> **"Bringing Indonesian culture into the digital world."**
 
-> **Bringing Indonesian Culture Into The Digital World**
-
-An Augmented Reality project exploring Indonesian cultural heritage through interactive 3D objects.
+Augmented Reality yang mengeksplorasi warisan budaya Indonesia lewat objek 3D interaktif.
 
 ```text
-STACK
-Three.js • WebAR • GLB • JavaScript • GSAP
+⚡ STACK
+Three.js • WebAR • GLB
+JavaScript • GSAP
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🕷️ ISSUE #2: HAND SHADER FILTER
+> **"Wave your hand. Warp reality."**
+
+Proyek computer vision eksperimental: posisi tangan mengontrol filter visual interaktif.
+
+```text
+⚡ STACK
+Python • OpenCV
+MediaPipe • Shaders
+```
+
+</td>
+</tr>
+</table>
+
+### 🧪 `HOW THE FILTER WORKS`
+
+```text
+ 📷 CAMERA
+    │  THWIP!
+    ▼
+ ✋ HAND DETECTION
+    │  ZAP!
+    ▼
+ 📍 LANDMARK TRACKING
+    │  SNAP!
+    ▼
+ 👆 FINGER POSITION
+    │  BZZT!
+    ▼
+ 🎨 SHADER EFFECT  ──►  💥 INTERACTIVE FILTER!
 ```
 
 ---
 
-## 🕷️ HAND SHADER FILTER
-
-> **Webcam + Hand Tracking + Visual Effects**
-
-An experimental computer vision project where hand positions control an interactive visual filter.
+## 🧠 `PAGE 4 — POWER LEVELS`
 
 ```text
-STACK
-Python • OpenCV • MediaPipe • Shaders
-```
-
-### 🧪 Experiment
-
-```text
-CAMERA
-   ↓
-HAND DETECTION
-   ↓
-LANDMARK TRACKING
-   ↓
-FINGER POSITION
-   ↓
-SHADER EFFECT
-   ↓
-INTERACTIVE FILTER
-```
-
----
-
-# 🧠 `CURRENTLY IN MY LAB`
-
-```text
-WEB DEVELOPMENT       ███████████████████░  90%
+WEB DEVELOPMENT       ███████████████████░  90%   ← MAIN POWER 💥
 CREATIVE TECHNOLOGY   ████████████████░░░░  75%
-COMPUTER VISION      ███████████████░░░░░  70%
+COMPUTER VISION       ███████████████░░░░░  70%
 GAME DEVELOPMENT      ██████████████░░░░░░  65%
 UI / UX               █████████████░░░░░░░  60%
 ```
 
----
+### ⚡ `TRAINING MONTAGE (CURRENTLY LEARNING)`
 
-# ⚡ `WHAT I'M LEARNING`
-
-```text
-┌──────────────────────────────────────┐
-│                                      │
-│  🌐 Advanced Web Development         │
-│  🤖 AI & Computer Vision             │
-│  🎮 Game Development                 │
-│  🧩 Software Architecture            │
-│  🎨 UI/UX & Visual Design            │
-│  🕸️ Interactive Web Experiences      │
-│                                      │
-└──────────────────────────────────────┘
-```
+| 🌐 Advanced Web Dev | 🤖 AI & Computer Vision | 🎮 Game Development |
+|:---:|:---:|:---:|
+| **🧩 Software Architecture** | **🎨 UI/UX & Visual Design** | **🕸️ Interactive Web Experiences** |
 
 ---
 
-# 📊 `GITHUB SIGNAL`
+## 📊 `PAGE 5 — GITHUB SIGNAL`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nidhomcihuy&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF1744&icon_color=FF1744&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nidhomcihuy&show_icons=true&hide_border=true&bg_color=0A0A12&title_color=FFE600&icon_color=FF1F8E&text_color=00E5FF&ring_color=FF1F8E"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhomcihuy&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF1744&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhomcihuy&layout=compact&hide_border=true&bg_color=0A0A12&title_color=FFE600&text_color=00E5FF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhomcihuy&hide_border=true&background=0A0A12&ring=FF1F8E&fire=FFE600&currStreakLabel=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00E5FF&dates=FF1F8E"/>
 
 </div>
 
 ---
 
-# 🕸️ `THE WEB IS ALWAYS GROWING`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhomcihuy&theme=radical&hide_border=true&background=0D0D0D&ring=FF1744&fire=FF1744&currStreakLabel=FFFFFF"/>
-
-</div>
-
----
-
-# 📡 `CONNECT`
+## 📡 `FINAL PAGE — CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/Nidhomcihuy">
-<img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-FF1F8E?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
-
 <a href="https://linkedin.com/in/-">
-<img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF1744"/>
+<img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
-
 <a href="mailto:-">
-<img src="https://img.shields.io/badge/EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF1744"/>
+<img src="https://img.shields.io/badge/EMAIL-FFE600?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════╗
-║                                          ║
-║       EVERY DEVELOPER HAS A STORY.       ║
-║                                          ║
-║              THIS IS MINE. 🕷️            ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
-
-### `CODE. CREATE. SWING INTO THE NEXT PROJECT.`
+### 💬 *"EVERY DEVELOPER HAS A STORY. THIS IS MINE."*
+### `TO BE CONTINUED...  →  NEXT ISSUE: YOUR PROJECT?`
 
 ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:111111,100:0d0d0d&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0a0a12,100:ff1f8e&height=110&section=footer"/>
 
 </div>
