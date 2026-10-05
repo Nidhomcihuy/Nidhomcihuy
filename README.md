@@ -15,13 +15,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=34&duration=2800&pause=800&color=FFE600&center=true&vCenter=true&width=600&lines=ANYONE+CAN+CODE.;WEB+DEVELOPER+%E2%80%A2+CREATIVE+TECH;THWIP!+SHIPPING+THE+NEXT+PROJECT."/>
 </p>
 
-<p align="center"><b>🎓 Informatics Engineering Student</b></p>
+<p align="center"><b> Informatics Engineering Student</b></p>
 
 </div>
 
 ---
 
-## 💥 `PAGE 1 — WHO AM I?`
+##  `PAGE 1 — WHO AM I?`
 
 <table>
 <tr>
@@ -29,10 +29,10 @@
 
 > **CAPTION:** *"Yo, I'm Nidhom. Web developer. Student. Builder of weird, fun, interactive things."*
 
-- 💻 **Web Developer**
-- 🎨 **Creative Technology Enthusiast**
-- 🎮 **Game Development Explorer**
-- 🤖 **Computer Vision Explorer**
+-  **Web Developer**
+-  **Creative Technology Enthusiast**
+-  **Game Development Explorer**
+-  **Computer Vision Explorer**
 
 </td>
 <td width="38%" align="center" valign="middle">
@@ -44,13 +44,13 @@
 </tr>
 </table>
 
-> 🟡 **MISSION:** *Learn something new. Build something useful. Make it memorable.*
+>  **MISSION:** *Learn something new. Build something useful. Make it memorable.*
 
 ---
 
-## ⚡ `PAGE 2 — POWERS & GADGETS`
+##  `PAGE 2 — POWERS & GADGETS`
 
-### 🅱️ Languages — *"BAM!"*
+###  Languages — *"BAM!"*
 
 <p>
 <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FF1F8E"/>
@@ -61,7 +61,7 @@
 <img src="https://img.shields.io/badge/GDScript-000000?style=for-the-badge&logo=godot-engine&logoColor=00E5FF"/>
 </p>
 
-### 🧪 Frameworks & Tech — *"POW!"*
+###  Frameworks & Tech — *"POW!"*
 
 <p>
 <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF1F8E"/>
@@ -71,7 +71,7 @@
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=FFFFFF"/>
 </p>
 
-### 🗄️ Database — *"KAPOW!"*
+###  Database — *"KAPOW!"*
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
@@ -81,19 +81,19 @@
 
 ---
 
-## 🧬 `PAGE 3 — STORIES FROM THE MULTIVERSE`
+## `PAGE 3 — STORIES FROM THE MULTIVERSE`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎭 ISSUE #1: GUBHUG WAYANG AR
+### ISSUE #1: GUBHUG WAYANG AR
 > **"Bringing Indonesian culture into the digital world."**
 
 Augmented Reality yang mengeksplorasi warisan budaya Indonesia lewat objek 3D interaktif.
 
 ```text
-⚡ STACK
+ STACK
 Three.js • WebAR • GLB
 JavaScript • GSAP
 ```
@@ -101,13 +101,13 @@ JavaScript • GSAP
 </td>
 <td width="50%" valign="top">
 
-### 🕷️ ISSUE #2: HAND SHADER FILTER
+### ISSUE #2: HAND SHADER FILTER
 > **"Wave your hand. Warp reality."**
 
 Proyek computer vision eksperimental: posisi tangan mengontrol filter visual interaktif.
 
 ```text
-⚡ STACK
+ STACK
 Python • OpenCV
 MediaPipe • Shaders
 ```
@@ -116,45 +116,45 @@ MediaPipe • Shaders
 </tr>
 </table>
 
-### 🧪 `HOW THE FILTER WORKS`
+### `HOW THE FILTER WORKS`
 
 ```text
- 📷 CAMERA
+CAMERA
     │  THWIP!
     ▼
- ✋ HAND DETECTION
+ HAND DETECTION
     │  ZAP!
     ▼
- 📍 LANDMARK TRACKING
+ LANDMARK TRACKING
     │  SNAP!
     ▼
- 👆 FINGER POSITION
+ FINGER POSITION
     │  BZZT!
     ▼
- 🎨 SHADER EFFECT  ──►  💥 INTERACTIVE FILTER!
+ SHADER EFFECT  ──►  INTERACTIVE FILTER!
 ```
 
 ---
 
-## 🧠 `PAGE 4 — POWER LEVELS`
+## `PAGE 4 — POWER LEVELS`
 
 ```text
-WEB DEVELOPMENT       ███████████████████░  90%   ← MAIN POWER 💥
+WEB DEVELOPMENT       ███████████████████░  90%   ← MAIN POWER 
 CREATIVE TECHNOLOGY   ████████████████░░░░  75%
 COMPUTER VISION       ███████████████░░░░░  70%
 GAME DEVELOPMENT      ██████████████░░░░░░  65%
 UI / UX               █████████████░░░░░░░  60%
 ```
 
-### ⚡ `TRAINING MONTAGE (CURRENTLY LEARNING)`
+### `TRAINING MONTAGE (CURRENTLY LEARNING)`
 
-| 🌐 Advanced Web Dev | 🤖 AI & Computer Vision | 🎮 Game Development |
+|  Advanced Web Dev |  AI & Computer Vision |  Game Development |
 |:---:|:---:|:---:|
-| **🧩 Software Architecture** | **🎨 UI/UX & Visual Design** | **🕸️ Interactive Web Experiences** |
+| ** Software Architecture** | ** UI/UX & Visual Design** | ** Interactive Web Experiences** |
 
 ---
 
-## 📊 `PAGE 5 — GITHUB SIGNAL`
+##  `PAGE 5 — GITHUB SIGNAL`
 
 <div align="center">
 
@@ -168,7 +168,7 @@ UI / UX               █████████████░░░░░░�
 
 ---
 
-## 📡 `FINAL PAGE — CONNECT`
+##  `FINAL PAGE — CONNECT`
 
 <div align="center">
 
@@ -187,7 +187,7 @@ UI / UX               █████████████░░░░░░�
 ### 💬 *"EVERY DEVELOPER HAS A STORY. THIS IS MINE."*
 ### `TO BE CONTINUED...  →  NEXT ISSUE: YOUR PROJECT?`
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0a0a12,100:ff1f8e&height=110&section=footer"/>
 
