@@ -140,10 +140,10 @@ CAMERA
 
 ```text
 WEB DEVELOPMENT       ███████████████████░  90%   ← MAIN POWER 
-CREATIVE TECHNOLOGY   ████████████████░░░░  75%
-COMPUTER VISION       ███████████████░░░░░  70%
+UI / UX               ████████████████░░░░  75%
+Mobile Apps           ███████████████░░░░░  70%
 GAME DEVELOPMENT      ██████████████░░░░░░  65%
-UI / UX               █████████████░░░░░░░  60%
+COMPUTER VISION       █████████████░░░░░░░  60%
 ```
 
 ### `TRAINING MONTAGE (CURRENTLY LEARNING)`
